@@ -1,0 +1,16 @@
+Package: CASdatasets
+Type: Package
+Title: Insurance Datasets
+Version: 1.0-10
+Author: Christophe Dutang [aut, cre], Arthur Charpentier [ctb]
+Maintainer: Christophe Dutang <christophe.dutang@ensimag.fr>
+Description: A collection of datasets, originally for the book 'Computational Actuarial Science with R' edited by Arthur Charpentier. Now, the package contains a large variety of actuarial datasets.
+Depends: R (>= 3.0.0), xts, sp
+Imports: lattice
+License: GPL (>= 2)
+NeedsCompilation: no
+URL: http://dutangc.free.fr/pub/RRepos/web/CASdatasets-index.html
+BuildResaveData: best
+LazyData: no
+Packaged: 2019-11-13 07:48:37 UTC; dutang
+Built: R 3.6.1; ; 2019-11-19 14:00:40 UTC; unix
